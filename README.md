@@ -5,9 +5,11 @@
 ---
 结构
 - 01.Git/test
+
+- 02.C_Preview/homework_submit
     - [x] 01.斐波那契数列
-        - 方法一:递推
-        - 方法二:递归
+      - 方法一:递推
+      - 方法二:递归
     - [x] 02.计算阶乘
         - 法一:for循环
         - 法二:递归
@@ -21,5 +23,4 @@
         - 01.递归
         - 02.递推
     - [ ] 07.Dijksra
-- 02.C_Preview/homework_submit
 - 03.C++ _ learning
