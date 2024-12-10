@@ -1,0 +1,3 @@
+D:/Windows/documents/linder's document/学习/cczu_cv_training/cmake-build-debug/CMakeFiles/cczu_cv_training.dir
+D:/Windows/documents/linder's document/学习/cczu_cv_training/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Windows/documents/linder's document/学习/cczu_cv_training/cmake-build-debug/CMakeFiles/rebuild_cache.dir
