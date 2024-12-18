@@ -1,0 +1,14 @@
+# ninja log v5
+478	627	7562010579457216	opencvtest.exe	d07d81f820486ee1
+1	490	7561916536671838	CMakeFiles/opencvtest.dir/src/preTreatment.cpp.obj	f6fb858643147eb
+2	507	7561457376232520	CMakeFiles/opencvtest.dir/src/test.cpp.obj	c262593867005c09
+1	101	7561970740787530	build.ninja	14fc2bb3294b7677
+0	450	7561945407557710	CMakeFiles/opencvtest.dir/src/colorPicker.cpp.obj	4eeded641a2fa955
+0	464	7561475794528788	CMakeFiles/opencvtest.dir/main.cpp.obj	293d399bedb2575d
+1	485	7562010268761997	CMakeFiles/opencvtest.dir/src/main.cpp.obj	bd4b8bdb399e324c
+6	478	7562010268716888	CMakeFiles/opencvtest.dir/src/findColor.cpp.obj	2fce8bbc95bd859d
+0	477	7562010578265451	CMakeFiles/opencvtest.dir/src/getContours.cpp.obj	bfc89017c81ef957
+1	473	7562010817530417	CMakeFiles/opencvtest.dir/src/getContours.cpp.obj	bfc89017c81ef957
+475	616	7562010818697365	opencvtest.exe	d07d81f820486ee1
+1	491	7562010958048188	CMakeFiles/opencvtest.dir/src/findColor.cpp.obj	2fce8bbc95bd859d
+493	641	7562010959258310	opencvtest.exe	d07d81f820486ee1
